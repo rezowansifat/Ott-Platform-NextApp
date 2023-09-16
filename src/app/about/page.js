@@ -1,7 +1,7 @@
-import React from "react";
+import Herosection from "@/app/components/Herosection";
 
 const About = () => {
-  return <div>page</div>;
+  return <Herosection title={"OUR STORY"} imageUrl={"/home.svg"} />;
 };
 
 export default About;
