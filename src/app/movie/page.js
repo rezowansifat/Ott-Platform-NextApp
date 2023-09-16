@@ -6,7 +6,7 @@ const Movie = async () => {
   await new Promise((resolve) => setTimeout(resolve, 2000));
 
   const url =
-    "https://ott-details.p.rapidapi.com/advancedsearch?start_year=1970&end_year=2020&min_imdb=6&max_imdb=7.8&genre=action&language=english&type=movie&sort=latest&page=1";
+    "https://ott-details.p.rapidapi.com/advancedsearch?start_year=2015&end_year=2020&min_imdb=6&max_imdb=7.8&genre=action&language=english&type=movie&sort=latest&page=1";
 
   const options = {
     method: "GET",

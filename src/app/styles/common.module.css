@@ -34,7 +34,7 @@
 }
 
 .movie_title span {
-  color: #e50914;
+  color: #ea0274;
   text-transform: capitalize;
 }
 
@@ -135,8 +135,8 @@
   height: 0;
   margin: 8px;
   box-sizing: border-box;
-  border: 32px solid #e50914;
-  border-color: #e50914 transparent #e50914 transparent;
+  border: 32px solid #ea0274;
+  border-color: #ea0274 transparent #ea0274 transparent;
   animation: loading 1.2s infinite;
 }
 @keyframes loading {
