@@ -9,7 +9,7 @@ yarn dev
 # or
 pnpm dev
 ```
-##Description
+## Description
 FlexOTT is a cutting-edge Over-The-Top (OTT) platform that offers an engaging and user-friendly website experience. Built using the latest technologies, including Next.js for frontend, MongoDB for database management, and Node.js for server-side functionality.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
