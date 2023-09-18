@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -16,19 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+![Screenshot 2023-09-18 at 00-30-36 Screenshot](https://github.com/rezowansifat/Ott-Platform-NextApp/assets/119602384/f588062d-eb5d-43b8-bad6-0d67b0cf87d1)
+![home page all movie](https://github.com/rezowansifat/Ott-Platform-NextApp/assets/119602384/83cc5c2a-07ef-43f5-939b-1fe717cd177e)
+![Screenshot 2023-09-18 at 00-33-20 Screenshot](https://github.com/rezowansifat/Ott-Platform-NextApp/assets/119602384/6ce09022-0ba3-4227-8b4f-e73b91b139b5)
+![Screenshot 2023-09-18 at 00-32-30 Screenshot](https://github.com/rezowansifat/Ott-Platform-NextApp/assets/119602384/ccf4d090-e4b5-4f95-8b82-e2b07ca1ffcc)
+![Screenshot 2023-gg09-18 at 00-32-23 Screenshot](https://github.com/rezowansifat/Ott-Platform-NextApp/assets/119602384/19a8f167-2b95-4a76-aed6-44d20e967e9a)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
