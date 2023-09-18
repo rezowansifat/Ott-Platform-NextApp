@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-
+## Server Rendered Ui Components
 ![Screenshot 2023-09-18 at 00-30-36 Screenshot](https://github.com/rezowansifat/Ott-Platform-NextApp/assets/119602384/f588062d-eb5d-43b8-bad6-0d67b0cf87d1)
 ![home page all movie](https://github.com/rezowansifat/Ott-Platform-NextApp/assets/119602384/83cc5c2a-07ef-43f5-939b-1fe717cd177e)
 ![Screenshot 2023-09-18 at 00-33-20 Screenshot](https://github.com/rezowansifat/Ott-Platform-NextApp/assets/119602384/6ce09022-0ba3-4227-8b4f-e73b91b139b5)
